@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "691bc413bb078aab",
+    "type": "split",
+    "children": [
+      {
+        "id": "b44fa3f3df3217a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cff1ee47971d0620",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/AIDSP-PaaS.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ac602aeac7dc984",
+    "type": "split",
+    "children": [
+      {
+        "id": "15e4719408d12e8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c990df83d5caad8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c6d4b4685fbed54a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "48a7fa310137bb98",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e1bd369a66a8741f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a35734d06175b26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f09a495098d7743",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/AIDSP-PaaS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a374874f373e0f69",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/AIDSP-PaaS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e2718f45aad86891",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fc48c1acc1d9b13e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/AIDSP-PaaS.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "cff1ee47971d0620",
+  "lastOpenFiles": [
+    "Excalidraw/Kubernetes.md",
+    "Excalidraw/img/cicd.png",
+    "README.md",
+    "Excalidraw/AIDSP-PaaS.md",
+    "Excalidraw/img/envoy.png",
+    "Excalidraw/img/k8s-ha-external-etcd.png",
+    "Excalidraw/img/externaldns.png",
+    "Excalidraw/img/keepalived.png",
+    "Excalidraw/img/svc.png",
+    "Excalidraw/img/metallb.png",
+    "Excalidraw/img/master.png",
+    "Excalidraw/Kubernetes/img/teams.png",
+    "Excalidraw/Kubernetes/img/cadvisor.png",
+    "Excalidraw/img",
+    "Excalidraw/AIDSP-PaaS",
+    "Excalidraw/Kubernetes/img",
+    "Excalidraw/Kubernetes",
+    "Excalidraw",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}

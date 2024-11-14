@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b44fa3f3df3217a6",
+        "id": "6d10fccd1cde1c61",
         "type": "tabs",
         "children": [
           {
-            "id": "cff1ee47971d0620",
+            "id": "93cbc1154f4e3193",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/AIDSP-PaaS.md"
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -37,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -52,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -60,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -83,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/AIDSP-PaaS.md",
+                "file": "Excalidraw/Kubernetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +97,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Kubernetes"
             }
           },
           {
@@ -100,10 +108,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/AIDSP-PaaS.md",
+                "file": "Excalidraw/Kubernetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Kubernetes"
             }
           },
           {
@@ -114,7 +124,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -123,8 +135,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/AIDSP-PaaS.md"
-              }
+                "file": "Excalidraw/Kubernetes.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Kubernetes"
             }
           }
         ]
@@ -146,21 +160,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cff1ee47971d0620",
+  "active": "8c990df83d5caad8",
   "lastOpenFiles": [
     "Excalidraw/Kubernetes.md",
+    "Excalidraw/img/argocd.png",
+    "Excalidraw/img/gitlab.png",
+    "Excalidraw/img/restic.png",
+    "Excalidraw/img/s3.png",
+    "Excalidraw/img/minio.png",
+    "Excalidraw/img/velero.png",
+    "Excalidraw/img/etcd.png",
+    "Excalidraw/AIDSP-PaaS.md",
     "Excalidraw/img/cicd.png",
     "README.md",
-    "Excalidraw/AIDSP-PaaS.md",
     "Excalidraw/img/envoy.png",
     "Excalidraw/img/k8s-ha-external-etcd.png",
-    "Excalidraw/img/externaldns.png",
-    "Excalidraw/img/keepalived.png",
-    "Excalidraw/img/svc.png",
-    "Excalidraw/img/metallb.png",
-    "Excalidraw/img/master.png",
-    "Excalidraw/Kubernetes/img/teams.png",
-    "Excalidraw/Kubernetes/img/cadvisor.png",
     "Excalidraw/img",
     "Excalidraw/AIDSP-PaaS",
     "Excalidraw/Kubernetes/img",

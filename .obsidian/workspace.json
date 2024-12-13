@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6d10fccd1cde1c61",
+        "id": "e04df0ed4bdd03d6",
         "type": "tabs",
         "children": [
           {
-            "id": "93cbc1154f4e3193",
+            "id": "7003b271d3ce442b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Kubernetes.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Kubernetes"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -148,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,21 +161,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "93cbc1154f4e3193",
+  "active": "7003b271d3ce442b",
   "lastOpenFiles": [
-    "README.md",
     "Excalidraw/AIDSP-PaaS.md",
+    "Excalidraw/img/cert-manager.png",
+    "Excalidraw/img/ingress-nginx.png",
     "Excalidraw/Kubernetes.md",
-    "Excalidraw/img/argocd.png",
+    "Excalidraw/img/metallb.png",
+    "Excalidraw/img/externaldns.png",
+    "Excalidraw/img/terraform.png",
     "Excalidraw/img/gitlab.png",
+    "Excalidraw/img/argocd.png",
+    "README.md",
     "Excalidraw/img/restic.png",
     "Excalidraw/img/s3.png",
     "Excalidraw/img/minio.png",
-    "Excalidraw/img/velero.png",
-    "Excalidraw/img/etcd.png",
-    "Excalidraw/img/cicd.png",
-    "Excalidraw/img/envoy.png",
-    "Excalidraw/img/k8s-ha-external-etcd.png",
     "Excalidraw/img",
     "Excalidraw/AIDSP-PaaS",
     "Excalidraw/Kubernetes/img",

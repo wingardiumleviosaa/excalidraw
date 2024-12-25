@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e04df0ed4bdd03d6",
+        "id": "9cff9c2f65dbcc23",
         "type": "tabs",
         "children": [
           {
-            "id": "7003b271d3ce442b",
+            "id": "a58d2d71f7547759",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,21 +161,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7003b271d3ce442b",
+  "active": "a58d2d71f7547759",
   "lastOpenFiles": [
     "Excalidraw/AIDSP-PaaS.md",
+    "Excalidraw/img/datalake.png",
+    "Excalidraw/img/szmb-arch.png",
+    "Excalidraw/Kubernetes.md",
+    "Excalidraw/ntut.md",
+    "Excalidraw/img/flink-nuts.png",
+    "Pasted Image 20241224144445_978.png",
+    "Excalidraw/img/kubernetes.png",
+    "Excalidraw/Untitled.md",
     "Excalidraw/img/cert-manager.png",
     "Excalidraw/img/ingress-nginx.png",
-    "Excalidraw/Kubernetes.md",
     "Excalidraw/img/metallb.png",
     "Excalidraw/img/externaldns.png",
     "Excalidraw/img/terraform.png",
-    "Excalidraw/img/gitlab.png",
-    "Excalidraw/img/argocd.png",
     "README.md",
-    "Excalidraw/img/restic.png",
-    "Excalidraw/img/s3.png",
-    "Excalidraw/img/minio.png",
     "Excalidraw/img",
     "Excalidraw/AIDSP-PaaS",
     "Excalidraw/Kubernetes/img",
